@@ -5,7 +5,7 @@ This API was built to ingest data from the API at https://bpdts-test-app.herokua
 
 ## Installing dependencies
 
-The easiest way to build and run the application is to run it in an IDE like IntelliJ or Eclipse. If you plan on doing it this way, skip to the "After running" section at the bottom.
+The easiest way to build and run the application is to run it in an IDE like IntelliJ or Eclipse. If you plan on doing it this way, ensure you run a package build with Maven, then skip to the "After running" section at the bottom.
 
 If that's not possible, you'll need to install both Java and Maven manually.
 
